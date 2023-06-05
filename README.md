@@ -3,6 +3,9 @@ En este proyecto se implemento un ETL en Python que extrae los datos desde un ar
 
 Se realiza un Dashboard en PowerBi con información relevante en base a los datos, en el directorio `dashboard/` se encuentra un archivo `main_dashboard.pdf`, como también el archivo para cargarlo en PowerBi. 
 
+## Data Warehouse
+[![Diagram](https://github.com/Dantergy/etl_communications/blob/main/Star%20model.png?raw=true "Diagram")](https://github.com/Dantergy/etl_communications/blob/main/Star%20model.png?raw=true "Diagram")
+
 ## Requisitos
 - Python 3.6+
 - pip
