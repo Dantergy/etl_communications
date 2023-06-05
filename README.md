@@ -21,6 +21,8 @@ Se realiza un Dashboard en PowerBi con información relevante en base a los dato
 
 1. Tener una base de datos PostgreSQL en local disponible con la siguiente configuracion: `database="moabits", user="postgres", password="password", host="localhost", port="5432"` En caso de ya contar con una BD, modificar las variables de conexión.
 
+1. En el archivo `script.sql` se encuentra el Query para la creación de las tablas
+
 ## Ejecución
 
 Para ejecutar el proceso ETL basta con ejecutar el archivo `main.py`.
